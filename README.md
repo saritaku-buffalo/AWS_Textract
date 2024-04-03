@@ -1,2 +1,2 @@
 # AWS_Textract
-The project aims to leverage Amazon Textract, a fully managed machine learning service provided by Amazon Web Services (AWS), to extract text from both PDF documents and images.
+The project aims to leverage Amazon Textract, a fully managed machine learning service provided by Amazon Web Services (AWS), to extract text from both PDF documents and images. Amazon Textract can automatically detect a variety of document formats and extract text, tables, forms, and other structured data without the need for manual intervention. This project provides a convenient way to integrate Amazon Textract into applications for text extraction purposes.
